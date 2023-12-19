@@ -8,6 +8,7 @@ Competências:
 - Código e arquitetura limpa, visando estruturas escaláveis.
 - Padrões de design voltados ao código.
 - Desenvolvimento Android e Web.
+- Colaboração com GIT.
 
 Diferenciais:
 - Autodidatismo
