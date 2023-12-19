@@ -16,6 +16,8 @@ Diferenciais:
 - Comunicação
 - Criticidade
 
+Atualmente estou trabalhando em um projeto pessoal relacionado a aplicação de Padrões de Design em exemplos gamificados com o auxílio do meu mentor, em breve disponibilizarei de forma pública no meu perfil.
+
 A leitura é um hábito presente no meu dia-a-dia em decorrência da valorização do estudo e disciplina!
 
 Estou lendo atualmente!
