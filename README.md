@@ -1,6 +1,6 @@
 Olá, meu nome é Fernando! Sou de Salvador-BA e atuo na área de desenvolvimento de jogos há 2 anos. Dedico-me arduamente ao desenvolvimento, buscando proporcionar uma experiência fluída e envolvente para os jogadores.
 
-Neste período, trabalhei em equipes com diversos desenvolvedores, conectando todas as áreas e elaborando um produto robusto, priorizando manter o jogador em primeiro lugar. Também fui responsável pelo desenvolvimento de estruturas complexas e pelas principais funções de jogos grandes. Desenvolvi estruturas escaláveis, garantindo que padrões estruturais fossem criados e seguidos no processo, assegurando uma boa conciliação entre velocidade e qualidade no longo prazo.
+Neste período, trabalhei em equipes com diversos desenvolvedores, conectando todas as áreas e elaborando um produto robusto, priorizando manter o jogador em primeiro lugar. Desenvolvi estruturas escaláveis, garantindo que padrões estruturais fossem criados e seguidos no processo, assegurando uma boa conciliação entre velocidade e qualidade no longo prazo.
 
 Competências:
 - C#, POO e Estrutura de dados.
