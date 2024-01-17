@@ -1,37 +1,17 @@
-Olá, meu nome é Fernando! Sou de Salvador-BA e atuo na área de desenvolvimento de jogos há 2 anos. Dedico-me arduamente ao desenvolvimento, buscando proporcionar uma experiência fluída e envolvente para os jogadores.
+Hi there! I'm a Unity Developer with 2 years of hands-on experience in client-side game development.
 
-Neste período, trabalhei em equipes com diversos desenvolvedores, conectando todas as áreas e elaborando um produto robusto, priorizando manter o jogador em primeiro lugar. Desenvolvi estruturas escaláveis, garantindo que padrões estruturais fossem criados e seguidos no processo, assegurando uma boa conciliação entre velocidade e qualidade no longo prazo.
+🔧 Tech Skills:
 
-Competências:
-- C#, POO e Estrutura de dados.
-- Unity, com excelente conhecimento dos componentes.
-- Código e arquitetura limpa, visando estruturas escaláveis.
-- Padrões de design voltados ao código.
-- Desenvolvimento Android e Web.
-- Colaboração com GIT.
+C#, Object-Oriented Programming (OOP), and Data Structures.
+Unity: Strong knowledge across its components.
+Clean Code and Architecture: Prioritizing scalable structures.
+Design Patterns with a focus on code.
+Android and Web Development.
+Performance Optimization and App Size.
 
-Diferenciais:
-- Autodidatismo
-- Proatividade
-- Comunicação
-- Criticidade
+💡 Differentials:
 
-Atualmente estou trabalhando em um projeto pessoal relacionado a aplicação de Padrões de Design em exemplos gamificados com o auxílio do meu mentor, em breve disponibilizarei de forma pública no meu perfil.
-
-A leitura é um hábito presente no meu dia-a-dia em decorrência da valorização do estudo e disciplina!
-
-Estou lendo atualmente!
-- Padrões de alta Performance.
-
-Livros que já li!
-
-Técnicos:
-- Código Limpo.
-- Arquituetura Limpa.
-- Entendendo Algoritmos.
-- O Programador Pragmático.
-
-Pessoais/Culturais:
-- Hábitos Atômicos.
-- Qual é a tua obra?
-- Os 7 hábitos das pessoas altamente eficazes.
+Proven self-learning ability.
+Proactive problem-solving approach.
+Effective communication skills.
+Critical thinking.
